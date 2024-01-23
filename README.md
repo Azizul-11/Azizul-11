@@ -4,6 +4,6 @@ I have gained practical experience by working on several projects, ranging from 
 
 I am passionate about collaborating with others on exciting projects and leveraging my skills to contribute to meaningful endeavors. If you are interested in working together or discussing any programming-related topics, feel free to reach out to me.
 
-📫 You can reach me via email at [your email address] or connect with me on GitHub at @Azizul-11.
+📫 You can reach me via email at mdazizul8741@gmail.com or connect with me on GitHub at @Azizul-11.
 
 Looking forward to connecting with fellow developers and exploring new opportunities!
