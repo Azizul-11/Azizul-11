@@ -1,9 +1,58 @@
-👋 Hi, I'm Md Azizul Islam, a B.Tech student pursuing Computer Science and Engineering. I have a keen interest in programming and software development. Currently, I am focusing on learning and mastering various technologies, including C++, Data Structures and Algorithms (DSA), and the MERN stack (MongoDB, Express.js, React, and Node.js).
+# 👋 Hey, I'm Md Azizul Islam  
 
-I have gained practical experience by working on several projects, ranging from a simple to-do list and food delivery frontend, to a complete e-commerce website. These projects have allowed me to apply my skills in building user-friendly interfaces and implementing efficient functionality.
+🚀 Full Stack Developer (MERN + IoT + Real-Time Systems)  
+🎓 Final Year CSE | 400+ DSA Problems | 3 Client Projects  
+🌍 I build production-grade applications with clean architecture and real-world impact.
 
-I am passionate about collaborating with others on exciting projects and leveraging my skills to contribute to meaningful endeavors. If you are interested in working together or discussing any programming-related topics, feel free to reach out to me.
+---
 
-📫 You can reach me via email at mdazizul8741@gmail.com or connect with me on GitHub at @Azizul-11.
+## 👨‍💻 About Me  
+- I build full-stack apps using **MongoDB, Express.js, React, Node.js**  
+- Experienced with **real-time systems** (Socket.io, MQTT)  
+- Built IoT dashboards using **InfluxDB + Grafana**  
+- Developed **e-commerce systems, robotics platforms, and AI tools**  
+- Strong in **problem solving (C++ STL + DSA)**  
+- I love building things end-to-end and deploying them for real users
 
-Looking forward to connecting with fellow developers and exploring new opportunities!
+---
+
+## 🔥 Featured Projects
+
+### 🔹 NearAid — Location-Based Real-Time Help System  
+**MERN + Socket.io + GeoSpatial Queries**  
+Live: https://nearaid.netlify.app/
+
+### 🔹 AI Fake News Detector  
+**React + Tailwind + GPT API**  
+Live: https://legitfakenews.netlify.app/
+
+### 🔹 IoT Monitoring Dashboard  
+**MQTT + InfluxDB + Grafana + MERN**  
+Used for hospital-grade respiratory monitoring (testing in 10+ hospitals)
+
+### 🔹 Client E-Commerce Platform  
+Full production-ready platform with payments, admin roles, and analytics.
+
+---
+
+## 🛠 Tech Stack  
+**Frontend:** React, Redux, Tailwind  
+**Backend:** Node.js, Express.js  
+**Realtime:** Socket.io, MQTT  
+**Database:** MongoDB, InfluxDB  
+**Tools:** Git, Postman, VS Code  
+**Languages:** JavaScript, C++
+
+---
+
+## 📊 GitHub Stats  
+![](https://github-readme-streak-stats.herokuapp.com/?user=Azizul-11)
+
+
+---
+
+## 📫 Contact  
+📧 Email: **mdazizul8741@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/md-azizul-islam  
+🐙 GitHub: **@Azizul-11**
+
