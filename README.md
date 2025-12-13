@@ -46,7 +46,8 @@ Full production-ready platform with payments, admin roles, and analytics.
 ---
 
 ## 📊 GitHub Stats  
-![](https://streak-stats.demolab.com/?user=Azizul-11)
+![GitHub Streak](https://streak-stats.demolab.com?user=Azizul-11&theme=dark&hide_border=true)
+
 
 
 ---
