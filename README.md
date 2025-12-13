@@ -46,11 +46,14 @@ Full production-ready platform with payments, admin roles, and analytics.
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Azizul-11&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Azizul-11&theme=dark&hide_border=true" />
+</p>
+
 
 ---
 
 ## 📫 Contact  
 📧 Email: **mdazizul8741@gmail.com**  
-🔗 LinkedIn: https://linkedin.com/in/md-azizul-islam  
+🔗 LinkedIn: https://www.linkedin.com/in/mdazizul7/   
 🐙 GitHub: **@Azizul-11**
