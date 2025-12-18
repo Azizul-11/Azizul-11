@@ -46,9 +46,10 @@ Full production-ready platform with payments, admin roles, and analytics.
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azizul-11&theme=vue-dark&hide_border=true" />
-</p>
+</p> -->
+![Azizul-11's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizul-11&theme=vue-dark&hide_border=true)
 
 
 ---
